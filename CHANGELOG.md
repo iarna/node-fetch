@@ -1,3 +1,57 @@
+# Change Log
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+<a name="2.0.1"></a>
+## [2.0.1](https://github.com/npm/node-fetch-npm/compare/v2.0.0...v2.0.1) (2017-05-24)
+
+
+### Bug Fixes
+
+* **json:** improve JSON parse error reporting ([1c810df](https://github.com/npm/node-fetch-npm/commit/1c810df))
+
+
+
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/npm/node-fetch-npm/compare/v1.0.1...v2.0.0) (2017-05-06)
+
+
+### Features
+
+* **version:** force bump to 2.0 ([39c5d50](https://github.com/npm/node-fetch-npm/commit/39c5d50))
+
+
+### BREAKING CHANGES
+
+* **version:** tooling got confused, so hitting 2.0.0 for reals now
+
+
+
+<a name="1.0.1"></a>
+## [1.0.1](https://github.com/npm/node-fetch-npm/compare/v1.0.0...v1.0.1) (2017-05-06)
+
+
+### Bug Fixes
+
+* **redirect:** Remove authorization header on redirect to different host ([#2](https://github.com/npm/node-fetch-npm/issues/2)) ([273260e](https://github.com/npm/node-fetch-npm/commit/273260e))
+
+
+
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/npm/node-fetch-npm/compare/v2.0.0-alpha.3...v1.0.0) (2017-04-26)
+
+
+### Bug Fixes
+
+* **proj:** initial fork changes ([0a190a8](https://github.com/npm/node-fetch-npm/commit/0a190a8))
+
+
+### BREAKING CHANGES
+
+* **proj:** this renames the library altogether
+
+
+
 
 Changelog
 =========
